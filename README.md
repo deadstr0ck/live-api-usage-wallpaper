@@ -1,2 +1,3 @@
 # live-api-usage-wallpaper
-i made this for cool hacker style 0 graphical cost live API usage wallpaper for windows (for Lively Wallpaper)
+i made this for coolhacker style, zero GPU cost live API usage wallpaper for windows (for Lively Wallpaper)
+just drag and drop into your live wallpaper 
